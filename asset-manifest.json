@@ -1,9 +1,13 @@
 {
   "files": {
-    "main.css": "/coca/static/css/main.b476e04c.css",
-    "main.js": "/coca/static/js/main.6f8373eb.js",
+    "main.css": "/coca/static/css/main.1a799a95.css",
+    "main.js": "/coca/static/js/main.3b221dfc.js",
     "static/media/team.png": "/coca/static/media/team.2d693409ae81cb401ab3.png",
+    "static/media/blog1.png": "/coca/static/media/blog1.470f3e34f8223e1d36d6.png",
+    "static/media/blog3.png": "/coca/static/media/blog3.4c824cd8af36cac3b796.png",
+    "static/media/blog2.png": "/coca/static/media/blog2.6f136b50068c5c5a5259.png",
     "static/media/statistic.png": "/coca/static/media/statistic.116b3083f82361e4c5ac.png",
+    "static/media/blog4.png": "/coca/static/media/blog4.80f8b285cdda6f8cc129.png",
     "static/media/Inter-Bold.ttf": "/coca/static/media/Inter-Bold.6a6ce82f6fc7dab34c2a.ttf",
     "static/media/Inter-SemiBold.ttf": "/coca/static/media/Inter-SemiBold.43b5c0659de61b19d6a0.ttf",
     "static/media/Inter-Medium.ttf": "/coca/static/media/Inter-Medium.d31554d1c2fad5bece0f.ttf",
@@ -35,19 +39,22 @@
     "static/media/fedex.svg": "/coca/static/media/fedex.3e89478368cf289278e9972d3d88dba2.svg",
     "static/media/twitter.svg": "/coca/static/media/twitter.d5526da684ce6644a29f0ec7d0c78794.svg",
     "static/media/oyo.svg": "/coca/static/media/oyo.5a16302432ddedc85ba648696560dfff.svg",
+    "static/media/crown.svg": "/coca/static/media/crown.ff129af7928f22c99f3dc26ed483af5c.svg",
     "static/media/linkedin.svg": "/coca/static/media/linkedin.5c8e818664b47efa3610c4e5d4fe62a6.svg",
     "static/media/star.svg": "/coca/static/media/star.40360a3727f508791d4c856a6b503e46.svg",
     "static/media/tasks.svg": "/coca/static/media/tasks.45fce0caf5d242fc46141a571416737a.svg",
     "static/media/privacy.svg": "/coca/static/media/privacy.f4360e7ad6b74ff7018fc22d53cc4010.svg",
+    "static/media/like.svg": "/coca/static/media/like.0e7c2510b9f079757a021fe04a498e8a.svg",
     "static/media/facebook.svg": "/coca/static/media/facebook.d2ecb78d13dff0012aef0abeb98dc6a1.svg",
     "static/media/calendar.svg": "/coca/static/media/calendar.5012175664002b329e35c4149469d664.svg",
     "index.html": "/coca/index.html",
     "static/media/checked.svg": "/coca/static/media/checked.3202c4aeb371ba12b06a3b8392d3d3d1.svg",
-    "main.b476e04c.css.map": "/coca/static/css/main.b476e04c.css.map",
-    "main.6f8373eb.js.map": "/coca/static/js/main.6f8373eb.js.map"
+    "static/media/energy.svg": "/coca/static/media/energy.ca9327d84d79e9960d13d02f89882a41.svg",
+    "main.1a799a95.css.map": "/coca/static/css/main.1a799a95.css.map",
+    "main.3b221dfc.js.map": "/coca/static/js/main.3b221dfc.js.map"
   },
   "entrypoints": [
-    "static/css/main.b476e04c.css",
-    "static/js/main.6f8373eb.js"
+    "static/css/main.1a799a95.css",
+    "static/js/main.3b221dfc.js"
   ]
 }
