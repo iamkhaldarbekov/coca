@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+        font-family: Inter;
+        src: url('./assets/fonts/Inter-Regular.ttf');
+        font-weight: 400;
+    }
+    @font-face {
+        font-family: Inter;
+        src: url('./assets/fonts/Inter-Bold.ttf');
+        font-weight: 700;
+    }
+    @font-face {
+        font-family: Inter;
+        src: url('./assets/fonts/Inter-Medium.ttf');
+        font-weight: 500;
+    }
+    @font-face {
+        font-family: Inter;
+        src: url('./assets/fonts/Inter-SemiBold.ttf');
+        font-weight: 600;
+    }
+}
+
+@layer components {
+    .title1 {
+        @apply text-dark text-[72px] font-bold leading-[86px] tracking-[-3px];
+    }
+    .title {
+        @apply text-[56px] tracking-[-2px] leading-[67px] font-semibold;
+    }
+    .subtitle {
+        @apply font-semibold text-[32px] text-dark leading-[42px];
+    }
+    .comment {
+        @apply text-[#7E8492] text-[18px] font-medium;
+    }
+    .btn {
+        @apply font-bold min-w-[175px] bg-dark text-white rounded-[100px] py-[16px] border-dark border-[1px] duration-100 hover:bg-white hover:text-dark;
+    }
+    .btn-white {
+        @apply font-bold min-w-[175px] bg-white text-dark rounded-[100px] py-[16px] border-[#EDEDED] border-[1px] duration-100 hover:bg-dark hover:text-white;
+    }
+    .wrapper {
+        @apply px-[120px];
+    }
+    .wrapper-mob {
+        @apply px-[20px];
+    }
+}
