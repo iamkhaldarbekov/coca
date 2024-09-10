@@ -1,9 +1,9 @@
 import './index.css';
 import {createRoot} from 'react-dom/client';
-import {createBrowserRouter, RouterProvider} from 'react-router-dom';
+import {createHashRouter, RouterProvider} from 'react-router-dom';
 
 import {routes} from './routes';
 
-const router = createBrowserRouter(routes);
+const router = createHashRouter(routes);
 
 createRoot(document.querySelector('#application')).render(<RouterProvider router={router} />)

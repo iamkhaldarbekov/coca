@@ -3,7 +3,7 @@ import {Home, About, Pricing, Blog, Contact} from './pages';
 
 export const routes = [
     {
-        path: '/coca',
+        path: '/',
         element: <Layout />,
         children: [
             {
